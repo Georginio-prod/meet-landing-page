@@ -1,12 +1,16 @@
 <script setup>
+import HeaderPage from './components/headerPage.vue';
+import MainPage from './components/mainPage.vue';
+
 
 </script>
 
 <template>
-  
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+ <div id="app">
+    <HeaderPage />
+    <MainPage/>
+ </div> 
+ 
 </template>
 
 <style scoped>
