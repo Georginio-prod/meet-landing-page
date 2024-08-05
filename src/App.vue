@@ -1,4 +1,5 @@
 <script setup>
+import FooterPage from './components/footerPage.vue';
 import HeaderPage from './components/headerPage.vue';
 import MainPage from './components/mainPage.vue';
 
@@ -9,6 +10,8 @@ import MainPage from './components/mainPage.vue';
  <div id="app">
     <HeaderPage />
     <MainPage/>
+    <FooterPage/>
+    
  </div> 
  
 </template>
