@@ -1,4 +1,4 @@
-# web18
+# web17
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -92,16 +92,19 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 Huddle-landing-page/
 ├── public/
 │ ├── favicon-32x32.png
-│ ├── 
-│ ├── 
-│ ├── 
-│ ├── 
-│ ├── 
-│ └── 
-  └── 
+│ ├── image-footer.jpg
+│ ├── image-hero-left.png
+│ ├── image-hero-right.png
+│ ├── image-man-texting.jpg
+│ ├── image-men-in-meeting.jpg
+│ └── image-woman-in-videocall.jpg
+  └── image-women-videochatting.jpg
 ├
-│ └── 
-├── 
+│ └── logo.svg
+├── src/
+      assets
+      components
+      app.vue
 |---main.js
 └── README.md
 
@@ -111,9 +114,10 @@ Ce fichier README fournit une vue d'ensemble complète du projet, incluant la de
 
 
 # github link: 
-
+https://github.com/Georginio-prod/meet-landing-page
 
 # vercel link:
-
+https://meet-landing-page-kohl.vercel.app/
 
 # frontend mentor 
+https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR

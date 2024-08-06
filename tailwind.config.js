@@ -16,7 +16,9 @@ export default {
         num:"#87879D",
         gree:"#4D96A9",
         sur:"#4D96A9",
-        num2:"#D9B8FF"
+        num2:"#D9B8FF",
+        hcol:"#B18BDD",
+        hcol1:"#71C0D4"
       }
     },
   },
