@@ -2,7 +2,7 @@
     <div class="items-center justify-center min-h-screen">
         <div class="flex flex-col items-center mt-28">
             <div class="w-0.5 h-20 bg-tr"></div>
-            <div class="flex items-center justify-center w-12 h-12 border-2 border-tr rounded-full">
+            <div class="flex items-center justify-center w-12 h-12 border border-tr rounded-full">
                 <span class="text-lg text-num">01</span>
             </div>
 
@@ -42,8 +42,8 @@
             </div>
 
             <div class="flex flex-col items-center mt-[72px] relative">
-                <div class="w-0.5 h-20 bg-tr"></div>
-                <div class="flex items-center justify-center w-12 h-12 border-2 border-tr rounded-full">
+                <div class="w-0.5 h-20 bg-tr transform translate-y-1/3"></div>
+                <div class="flex items-center justify-center transform translate-y-1/2 w-12 h-12 border border-tr  rounded-full">
                     <span class="text-lg text-num">02</span>
                 </div>
             </div>

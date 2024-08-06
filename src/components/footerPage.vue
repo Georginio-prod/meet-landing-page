@@ -1,5 +1,5 @@
 <template>
-    <footer class="justify-center ">
+    <footer class="justify-center">
     <div class="relative items-center justify-center ">
       <div class="flex flex-row w-full h-full mix-blend-multiply bg-sur">
         <img src="/public/image-footer.jpg" alt="img" class="w-full h-full object-cover mix-blend-multiply opacity-25">
